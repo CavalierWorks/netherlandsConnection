@@ -1,0 +1,16 @@
+.*
+!.circleci
+!.gitignore
+!.gitattributes
+!.editorconfig
+!frontend/.angular-cli.json
+/build/
+*/build/
+*/classes/
+/docker/**/*.war
+*/src/main/webapp/
+*/src/main/resources/static/
+*/node_modules/
+*/out/
+*.log
+*.iml
