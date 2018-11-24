@@ -21,7 +21,6 @@
 
 /build/
 */build/
-/docker/**/*.war
 */src/main/webapp/
 */src/main/resources/static/
 
