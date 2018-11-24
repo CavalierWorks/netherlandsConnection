@@ -19,7 +19,6 @@
 *.tar.gz
 *.rar
 
-/build/
 */build/
 */src/main/webapp/
 */src/main/resources/static/
