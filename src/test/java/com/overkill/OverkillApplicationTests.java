@@ -1,4 +1,4 @@
-package com.overkill.overkill;
+package com.overkill;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
